@@ -11,9 +11,9 @@ description = "Supplementary File 2 - Comparison of Linear, Exponential and Bolt
 ## Interactive figure
 
 <iframe 
-    width="1000"
+    width="900"
     frameborder="0"
-    height="1150"
+    height="900"
     src="https://migas-origami-2017.netlify.com/assets/Supplementary-File-2.html"
     style="background: #FFFFFF;"
 ></iframe>
