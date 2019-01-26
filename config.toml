@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-uk"
-title = "Interactive figures - ORIGAMI 2017"
+title = "Migas - ORIGAMI - 2017"
 theme = "hello-friend"
 copyright = ""
 paginate = 5
@@ -11,7 +11,7 @@ paginate = 5
   defaultTheme = "dark"
 
 [params.logo]
-  logoText = "ORIGAMI 2017"
+  logoText = "Migas - ORIGAMI - 2017"
   # or
   #
 # path = "/img/your-example-logo.svg"
@@ -22,6 +22,11 @@ paginate = 5
     identifier = "about"
     name = "About"
     url = "/about"
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/home"
 
 [languages]
   [languages.en]

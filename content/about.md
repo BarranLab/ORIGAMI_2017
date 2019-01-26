@@ -7,7 +7,7 @@ author = "Lukasz Migas"
 
 his repository contains all interactive figures for the paper titled "ORIGAMI: A Software Suite for Activated Ion Mobility Mass Spectrometry (aIM-MS) Applied to Multimeric Protein Assemblies".
 
-An example figure from the paper which allows certain level of interaction (i.e. paning, zooming-in/out, etc). The figures can be easily viewed in your browser by going to **home** of this website and selecting any of the posts. Each post consists of a single figure that is embedded on the website or can be opened in a separate tab by clicking on the **Open in another tab** link.
+An example figure from the paper which allows certain level of interaction (i.e. paning, zooming-in/out, etc). The figures can be easily viewed in your browser by going to [home](https://migas-origami-2017.netlify.com/home/) of this website and selecting any of the posts. Each post consists of a single figure that is embedded on the website or can be opened in a separate tab by clicking on the **Open in another tab** link.
 
 ## Abstract
 
